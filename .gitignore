@@ -1,0 +1,9 @@
+__pycanche__/
+*.pyc
+.pytest_cache/
+
+*.db
+
+data/creditcard.csv
+data/fraud_detection.csv
+fraud_detection.db
