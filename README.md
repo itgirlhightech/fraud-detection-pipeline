@@ -101,3 +101,10 @@ GitHub Actions automatically:
 * GitHub
 * GitHub Actions
 
+## Data Source
+
+This project uses the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
+dataset from Kaggle, provided by the Machine Learning Group of ULB (Université Libre de Bruxelles).
+
+The dataset contains 284,807 transactions, of which 492 are fraudulent.
+
